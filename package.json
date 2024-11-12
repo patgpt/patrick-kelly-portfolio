@@ -1,6 +1,7 @@
 {
-  "name": "content-wind-template",
+  "name": "patrick-kelly-portfolio",
   "private": true,
+   "packageManager": "pnpm@9.12.3",
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
